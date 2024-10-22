@@ -1,7 +1,5 @@
 
-## A franken baby of [ESP8266-EvilTwin](https://github.com/M1z23R/ESP8266-EvilTwin) and [ESP8266-Captive-Portal](https://github.com/adamff1/ESP8266-Captive-Portal).
-
-<img src="https://user-images.githubusercontent.com/32341044/202444452-3e7c9ab0-1643-4996-8319-18b8c25544fa.jpg"></img><br>
+## NodeMcu
 
 It uses an ESP8266 to attack a WiFi network using Deauther && || Evil-Twin AP method.
 
